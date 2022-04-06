@@ -3,8 +3,6 @@
 <br>
 <br>
 <br>
-<body bgcolor="black">
-</body>
 <h2 align="center"><p style=" font-size:50px ; color:red"><Font face="Arial black",><b><i><marquee>Hello 👋 , folks 😄</marquee></i></b></font></p></h2>
 <br>
 <h1 align="center"><p style="color:orange ; font-size:35px"><Font face="Algerian"><b><i>My self , Ved Prakash , currently pursuing my B.Tech degree in COMPUTER SCIENCE AND ENGINEERING DEPARTMENT FROM ASANSOL ENGINEERING COLLEGE
