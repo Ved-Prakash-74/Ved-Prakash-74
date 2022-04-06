@@ -1,6 +1,5 @@
-<a href="#"><img align='left' width="49%" height="50%" src="![2](https://user-images.githubusercontent.com/96818066/161965296-ba2606f9-4ba1-47ac-b9ec-faa3eef89ad8.jpg)
-"/></a>
-<a href="#"><img align='right' width="49%" height="50%" src="![1](https://user-images.githubusercontent.com/96818066/161965645-4f8d76da-b75d-4944-8070-ec9490770666.jpg)"/></a>
+<a href="#"><img align='left' width="49%" height="auto" src="https://user-images.githubusercontent.com/96818066/161965296-ba2606f9-4ba1-47ac-b9ec-faa3eef89ad8.jpg"/></a>
+<a href="#"><img align='right' width="49%" height="auto" src="https://user-images.githubusercontent.com/96818066/161965645-4f8d76da-b75d-4944-8070-ec9490770666.jpg"/></a>
 <br>
 <br>
 <br>
@@ -14,9 +13,9 @@
 <br>
 
 <h2 align="center"><p style="color:white;font-size:50px">𝕮𝖔𝖉𝖊𝖗</p></h2>
-<br>
+
 [![Ved Prakash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ved-Prakash-74&theme=xcode)](https://github.com/Ved-Prakash-74)
-<br>
+
 <h3 align="left">You can out me here👇 :   </h3>
 <p align="left">
 <a href="https://fb.com/Ved Prakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ved Prakash" height="30" width="40" /></a>
